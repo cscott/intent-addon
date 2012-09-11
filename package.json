@@ -6,6 +6,6 @@
     "homepage": "http://wiki.laptop.org/go/Literacy_Project",
     "version": "0.1",
     "fullName": "Android Intent Bridge",
-    "id": "jid1-HJllQch7iaHkkQ",
+    "id": "intent.addon@nell.laptop.org",
     "description": "This extension makes it possible for whitelisted webpages and web apps to send Android broadcast intents.  In the Nell project we use this for doing funf (funf.org) logging from educational assessment apps."
 }
