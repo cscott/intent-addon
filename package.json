@@ -1,8 +1,11 @@
 {
-  "name": "intent-addon",
-  "fullName": "intent-addon",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+    "name": "intent-addon_nell_laptop_org",
+    "license": "MPL 2.0",
+    "author": "C. Scott Ananian <cscott@laptop.org> (http://cscott.net)",
+    "contributors": [],
+    "homepage": "http://wiki.laptop.org/go/Literacy_Project",
+    "version": "0.1",
+    "fullName": "Android Intent Bridge",
+    "id": "jid1-HJllQch7iaHkkQ",
+    "description": "This extension makes it possible for whitelisted webpages and web apps to send Android broadcast intents.  In the Nell project we use this for doing funf (funf.org) logging from educational assessment apps."
 }
